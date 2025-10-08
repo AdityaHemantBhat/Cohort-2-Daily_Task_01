@@ -52,7 +52,7 @@ Project/
 
 | Original Design | Cloned Version |
 |----------------|---------------|
-| ![Original](./original-e007cf174b7030ef3b9ece3cea0c69b1.webp) | ![Cloned](./images/app.png) |
+| ![Original](./original-e007cf174b7030ef3b9ece3cea0c69b1.webp) | ![Cloned](./images/cloned-CleanPro.png) |
 
 ## Credits
 
