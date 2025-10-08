@@ -1,6 +1,6 @@
 # CleanPro Home Page Clone
 
-This project is a part of **Daily Task 01**: Cloning the CleanPro home page design using only HTML and CSS. The goal was to replicate the provided design as closely as possible, focusing on layout, typography, and visual elements. No responsiveness or JavaScript functionality has been implemented.
+This project is a part of **Daily Challenge 01**: Cloning the CleanPro home page design using only HTML and CSS. The goal was to replicate the provided design as closely as possible, focusing on layout, typography, and visual elements. No responsiveness or JavaScript functionality has been implemented.
 
 ## Project Overview
 
